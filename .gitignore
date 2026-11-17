@@ -1,0 +1,5 @@
+.DS_Store
+*.nii.gz
+data with failures/
+dataset/
+outputs/
